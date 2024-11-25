@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 I'm a software engineering student and junior full stack developer;<br><br>📚 I like to study Logic and apply the concepts in my projects;<br><br>🌍 My main goal is to change the world with my knowledge and democratize the use of technology.!<br><br>🎶 I also really appreciate music and code is my favorite hobby.</p>
+<p align="left">💻 I'm a software engineering student and junior full stack developer;<br><br>📚 I like to study Logic and apply the concepts in my projects;<br><br>🌕My biggest dream is to walk on the moon<br><br>🌍 My main goal is to change the world with my knowledge and democratize the use of technology.!<br><br>🎶 I also really appreciate music and code is my favorite hobby.</p>
 
 ###
 
