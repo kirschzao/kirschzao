@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="center">Some Features That I Use:</h2>
+<h2 align="center">Some Tools That I Use:</h2>
 
 ###
 
