@@ -4,13 +4,12 @@
 
 ### 🚀 About me
 
-I'm a technology enthusiast focused on **Cloud Computing** and **Backend Development**. Currently, I split my time between building scalable solutions on **AWS**, studying **Software Engineering (PUCRS)**, and **Applied Mathematics (UFRGS)**.
+I'm a technology enthusiast focused on **Cloud Computing** and **Backend Development**. Currently, I split my time between building scalable solutions on **AWS** and studying **Software Engineering (PUCRS)**.
 
 - 🔭 Currently working as a **Cloud Developer** at OryzaLabs.
 - 🎓 Studying **Software Engineering** and **Applied Mathematics**.
 - 💡 Passionate about **Software Architecture**, **DevOps**, and **Generative AI**.
 - 🌍 I speak **Portuguese**, **English**, and a little bit **German**.
-- ⚡ **Fun fact:** When I'm not coding, I'm probably listening music or exploring new places with a coffee in hand.
 
 ---
 
