@@ -1,5 +1,5 @@
 <div align="center">                                                                                                                                    
-  <h1> Hi, this is Kirsch 👋</h1>                                                                                                                         
+  <h1> Hi there, I'm Kirsch 👋</h1>                                                                                                                         
   </div>                                                                                                                                                  
                                                                                                                                                           
   ### 🚀 About me                                                                                                                                         
@@ -53,6 +53,22 @@ Here are the tools and technologies I use to bring ideas to life:
 
 </div>
 
+---                                                                                                                                                     
+                                                                                                                                                          
+  ### 🏅 Certifications                                                                                                                                   
+                                                                                                                                                          
+  <div align="center">                                                                                                                                    
+    <a href="https://www.credly.com/badges/YOUR-BADGE-ID" target="_blank">                                                                                
+      <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"      
+  height="150" />                                                                                                                                         
+    </a>                                                                                                                                                  
+    &nbsp;&nbsp;&nbsp;                                                                                                                                    
+    <a href="https://www.credly.com/badges/YOUR-BADGE-ID" target="_blank">                                                                                
+      <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect –    
+  Associate" height="150" />                                                                                                                              
+    </a>                                                                                                                                                  
+  </div>
+
 ---
 
 ### 📊 GitHub Stats
@@ -61,6 +77,7 @@ Here are the tools and technologies I use to bring ideas to life:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirschzao&radius=16&theme=react&area=true&order=5&custom_title=My%20Latest%20Contributions" height="300" alt="activity-graph graph"  />
 </div>
 
+  
 ---
 
 ### 🤝 Let's connect?
