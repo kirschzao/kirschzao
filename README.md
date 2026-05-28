@@ -1,16 +1,22 @@
-<div align="center">
-<h1> Hi, this is Kirsch 👋</h1>
-</div>
+<div align="center">                                                                                                                                    
+  <h1> Hi, this is Kirsch 👋</h1>                                                                                                                         
+  </div>                                                                                                                                                  
+                                                                                                                                                          
+  ### 🚀 About me                                                                                                                                         
+                                                                                                                                                       
+  <div align="center">
 
-### 🚀 About me
-
-I'm a technology enthusiast focused on **Cloud Computing** and **Backend Development**. Currently, I split my time between building scalable solutions on **AWS** and studying **Software Engineering (PUCRS)**.
-
-- 🔭 Currently working as a **Cloud Developer** at OryzaLabs.
-- 🎓 Studying **Software Engineering** and **Applied Mathematics**.
-- 💡 Passionate about **Software Architecture**, **DevOps**, and **Generative AI**.
-- 🌍 I speak **Portuguese**, **English**, and a little bit **German**.
-
+  Cloud Developer at **OryzaLabs**, building scalable solutions on **AWS**.                                                                                                                                                   
+  Studying **Software Engineering** at PUCRS and **Applied Mathematics**.                                                                                                                                                                                                                                         
+  💡 Focused on **Software Architecture**, **DevOps**, and **Generative AI**                                                                              
+  🌍 Portuguese · English · German (basic)                                                                                                                
+                                                                                                                                                          
+                                                                                                                                                          
+  <img src="https://img.shields.io/badge/Cloud_Developer-OryzaLabs-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />                      
+  <img src="https://img.shields.io/badge/Software_Engineering-PUCRS-%23007ACC?style=for-the-badge&logo=graduation-cap&logoColor=white" />                 
+                                                                                                                                                          
+</div> 
+  
 ---
 
 ### 🛠️ Tech Stack
