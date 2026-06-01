@@ -62,11 +62,13 @@ Here are the tools and technologies I use to bring ideas to life:
       <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner"      
   height="150" />                                                                                                                                         
     </a>                                                                                                                                                  
-    &nbsp;&nbsp;&nbsp;                                                                                                                                    
+    &nbsp;&nbsp;&nbsp;   
+    <!--
     <a href="https://www.credly.com/badges/YOUR-BADGE-ID" target="_blank">                                                                                
       <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect –    
-  Associate" height="150" />                                                                                                                              
-    </a>                                                                                                                                                  
+  Associate" height="150" /> 
+    </a>                     
+    -->
   </div>
 
 ---
