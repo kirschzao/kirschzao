@@ -90,9 +90,7 @@ Here are the tools and technologies I use to bring ideas to life:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kirschzao&theme=react&hide_border=true" alt="GitHub streak stats" />
-  <br><br>
-  <img src="https://ghchart.rshah.org/61DAFB/kirschzao" alt="GitHub contributions chart" />
+  <img src="./assets/activity-graph.svg" width="100%" alt="activity graph" />
 </div>
 
   
