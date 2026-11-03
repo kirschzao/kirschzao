@@ -67,6 +67,9 @@ Here are the tools and technologies I use to bring ideas to life:
     <a href="https://www.credly.com/badges/38020ea7-9625-400c-b75c-0e17032fca12/public_url" target="_blank">
       <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" height="150" />
     </a>
+    <a href="https://www.credly.com/badges/d2507ad6-374b-4f4d-8572-1ca0c97acdc8/public_url" target="_blank">
+      <img src="https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="150" />
+    </a>
     <br><br>
     <a href="https://www.credly.com/badges/e00b10f7-0caf-47bd-a933-64d3034d1626/public_url" target="_blank">
       <img src="https://images.credly.com/size/110x110/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" alt="AWS SBG Leader Badge" height="80" />
