@@ -86,6 +86,9 @@ Here are the tools and technologies I use to bring ideas to life:
     <a href="https://www.credly.com/badges/80e7628a-12da-40bb-8751-bdd86731da64/public_url" target="_blank">
       <img src="https://images.credly.com/size/110x110/images/03c9cfb5-5ee9-4373-a7ee-d0de2cd91578/blob" alt="AWS SBG Flare Badge" height="80" />
     </a>
+    <a href="https://www.credly.com/badges/e74aa7a6-0df4-44f1-8ba9-3c54bb5bff08/public_url" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/c49ecc1c-1064-4c72-a096-c93864833cc4/blob" alt="AWS SBG Strato Badge" height="80" />
+    </a>
 </div>
 
 ---
